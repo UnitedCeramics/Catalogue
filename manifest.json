@@ -1,6 +1,6 @@
 {
-  "name": "Your Tiles Catalog",
-  "short_name": "Tiles App",
+  "name": "United Ceramics Catalog",
+  "short_name": "United Ceramics",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
